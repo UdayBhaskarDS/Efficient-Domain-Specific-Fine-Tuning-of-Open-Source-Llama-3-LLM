@@ -50,9 +50,4 @@ Use the final fine-tuned model for domain-specific inference. Evaluate its perfo
 - Hugging Face account for managing adapters and models.  
 - Optional: Access to cloud-based platforms like AWS SageMaker for large-scale fine-tuning.  
 
-### **Installation**  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/OpenLLM-Llama3-Domain-Finetune.git
-   cd OpenLLM-Llama3-Domain-Finetune
 
